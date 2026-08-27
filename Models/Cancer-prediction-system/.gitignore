@@ -1,0 +1,14 @@
+# Model checkpoints
+*.pth
+
+# Datasets
+train/
+test/
+
+# Generated files
+submission.csv
+train_labels.csv
+
+# Python cache
+__pycache__/
+*.pyc
